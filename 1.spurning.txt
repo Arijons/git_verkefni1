@@ -1,0 +1,11 @@
+"Git spurning og svör"
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd. svar: skipta niður í möppu.
+
+	cd ~ svar: fer með mann upp í heima möppu.
+
+	ls svar: listar allar skrár í möppur sem maður er inn í.
+
+	pwd svar: segir í hvaða möppu maður er í.
+
+	mkdir: býr til nýja möppu.
